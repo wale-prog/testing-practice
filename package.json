@@ -1,0 +1,24 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wale-prog/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wale-prog/testing-practice/issues"
+  },
+  "homepage": "https://github.com/wale-prog/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
